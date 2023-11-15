@@ -1,0 +1,8 @@
+06:50:038.127 INFO   api.test.UserTests -******user is created*******
+06:56:040.640 INFO   api.test.UserTests -******user is created*******
+07:01:021.526 INFO   api.test.UserTests -******user is created*******
+07:58:029.342 INFO   api.test.UserTests2 -******user is created*******
+10:02:059.977 INFO   api.test.UserTests2 -******user is created*******
+10:18:006.495 INFO   api.test.UserTests2 -******user is created*******
+10:25:046.643 INFO   api.test.UserTests2 -******user is created*******
+17:24:023.961 INFO   api.test.UserTests2 -******user is created*******
